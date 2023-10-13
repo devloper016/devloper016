@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aditya-tiwari-438087203)
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-tiwari-438087203/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aditya.tiwari1154@gmail.com)
 
 

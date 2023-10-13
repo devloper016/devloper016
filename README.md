@@ -7,13 +7,16 @@
 - 🌱 I’m currently grinding [DSA](https://leetcode.com/Aditya_02/) and Competitve Programming.
 - 🤝🏻 Looking forward to open source contributions
 
+<hr>
 
-## 🌐 Socials:
+
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-tiwari-438087203/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aditya.tiwari1154@gmail.com)
 
+<br>
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
@@ -32,7 +35,9 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" /></code>
   <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySql" title="Mysql" /></code>
 </div>
-#  Github Stats:
+
+
+### 📈 Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devloper016&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="devloper016" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devloper016&show_icons=true&locale=en&theme=tokyonight" alt="devloper016" /></p>

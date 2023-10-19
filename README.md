@@ -1,5 +1,4 @@
-<h1 align="center">Hi , I'm Aditya Tiwari</h1>
-
+<h1 align="center">Hi,I'm <a href="https://aditya-tiwari-portfolio.netlify.app/"> Aditya Tiwari</a></h1>
 
  ## About Me
 - 🎓 I am currently pursuing Bachelors of Technology in CSE at National Insititute of Technology, Hamirpur.
